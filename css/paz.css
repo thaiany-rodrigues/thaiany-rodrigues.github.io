@@ -1,0 +1,62 @@
+	 
+	  body {
+	      background-image: url("https://a-static.mlcdn.com.br/800x560/painel-de-lona-ceu-azul-sol-entre-nuvens-fabrika-de-festa/fabrikadefesta/555131647/070d6d61e9ad5a3ca528d90705f9a90a.jpeg");
+	      background-size: 100%;
+	      background-attachment: fixed;
+	      color: #f6f6f6;
+	      font-family: helvetica;
+	      text-align: left;
+	  }
+	
+
+	  h1, h2 {
+	      border: 8px groove #2531DB;
+	      margin: 20px;
+	      padding: 20px;
+	      text-align: center; 
+	      color: #0C158F;
+	  }
+	  
+	  #ultimoTit{
+	      
+	      color: #8F7100;
+	  }
+
+	  p {
+	    
+	     padding: 10px; 
+	     margin: auto;
+	     font-weight: bold;   
+	  }
+	    
+	   .primeiraCor{
+	     	 
+	     	 color: #8F4327;
+	  } 
+	  
+	   .segundaCor{
+	     
+	       color: #8F7100;
+	     
+	  }
+	  
+	   .terceiraCor{
+	     
+	      color:#0C1FA8;
+	     
+	  }
+	     
+	  a {
+	      color: red;
+	  }
+	  
+	  a:hover {
+	      color: gold;
+	  }
+      
+	  img {
+	    
+	      margin: auto;
+	      display: block;
+	      height: 400px; 
+	  }
